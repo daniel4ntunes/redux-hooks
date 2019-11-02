@@ -34,7 +34,6 @@ module.exports = {
       'error',
       { functions: true, classes: true, variables: false },
     ],
-    'import/prefer-default-export': 0,
     'import/no-extraneous-dependencies': 0,
     'consistent-return': 0,
   },
