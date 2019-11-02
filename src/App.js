@@ -8,7 +8,7 @@ import CourseList from './components/CourseList';
 function App() {
   return (
     <Provider store={store}>
-      <CourseList/>
+      <CourseList />
     </Provider>
   );
 }
