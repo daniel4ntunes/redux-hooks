@@ -7,7 +7,7 @@
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/93d9e96628a74885939ff3fed5d7355e.svg">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielAntunes97/redux-hooks.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielAntunes97/redux-hooks">
   
   <a href="https://github.com/DanielAntunes97/redux-hooks/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielAntunes97/redux-hooks.svg">
